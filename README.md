@@ -1,5 +1,5 @@
 # Furnace-Wavetable-Scaler
-Made to be used with Furnace, developed by tildearrow.
+Made to be used with [Furnace, developed by tildearrow.](https://github.com/tildearrow/furnace)
 
 This Python script is meant to be used whenever you want to raise the waveform's height for extra bit-depth and want to scale the waveform data based on that.
 
